@@ -1,7 +1,6 @@
 helloo haii oscar here!
->[image alt](https://github.com/langlak/langlak/blob/ed93cd37b6cd29675b05b9fd44d8e98a6197d697/Untitled1086_20260423042319.png
-)
-<!--
+<>[image alt](https://github.com/langlak/langlak/blob/ed93cd37b6cd29675b05b9fd44d8e98a6197d697/Untitled1086_20260423042319.png
+)!--
 **langlak/langlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
