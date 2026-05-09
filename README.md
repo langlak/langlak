@@ -1,7 +1,8 @@
 ‎<div align="center"> ‎⩇⩇:⩇⩇ 
 
-<div align="center"> 𝐖e'll Choke on it
+<div align="center"> 𝐖e'll choke on it
 ‎<div align="center"> ᴀɴᴅ 𝙙𝙞𝙚
+  
 ‎<div align="center"> ︶⊹︶︶୨୧︶︶⊹︶
 
 ![image alt](https://github.com/langlak/langlak/blob/f5fbbeb78b86cc96dc33dd56a7162865541b7869/mizi-my-clematis.gif)
